@@ -1,8 +1,10 @@
-Accuracy: 83.96%
-Area Under ROC Curve: 89.90%
-F1 Score: 84.38%
-Log Loss: 0.6196
-Positive Precision: 81.82%
-Positive Recall: 87.10%
-Negative Precision: 86.36%
-Negative Recall: 80.85%
+
+=== Evaluation at 2024-12-04 18:57:06 ===
+Accuracy: 82.35%
+Area Under ROC Curve: 89.73%
+F1 Score: 83.25%
+Log Loss: 0.6371
+Positive Precision: 78.85%
+Positive Recall: 88.17%
+Negative Precision: 86.75%
+Negative Recall: 76.60%

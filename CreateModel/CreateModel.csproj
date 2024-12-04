@@ -13,7 +13,6 @@
 
     <ItemGroup>
       <Content Include="bin\Debug\net8.0\evaluation.txt" />
-      <Content Include="yelp_labelled.txt" />
     </ItemGroup>
 
     <ItemGroup>

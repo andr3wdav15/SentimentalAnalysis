@@ -24,13 +24,16 @@ public class Model
 
     public IDataView LoadData(MLContext mlContext)
     {
+        if (!File.Exists(_dataPath))
+            throw new FileNotFoundException($"Training data file not found at path: {_dataPath}");
+
         var lines = File.ReadAllLines(_dataPath);
         if (lines.Length == 0)
             throw new InvalidOperationException("Training data file is empty");
 
         var allData = lines
             .Where(line => !string.IsNullOrWhiteSpace(line))
-            .Select(line => 
+            .Select(line =>
             {
                 var parts = line.Split('\t');
                 return new Data { Text = parts[0], Sentiment = parts[1] == "1" };
@@ -68,11 +71,21 @@ public class Model
         if (_trainedModel == null)
             throw new InvalidOperationException("Model has not been trained yet, cannot save.");
 
-        _mlContext.Model.Save(_trainedModel, dataView.Schema, _modelPath);
+        try
+        {
+            _mlContext.Model.Save(_trainedModel, dataView.Schema, _modelPath);
+        }
+        catch (IOException ex)
+        {
+            throw new IOException($"Error saving model to {_modelPath}: {ex.Message}", ex);
+        }
     }
 
     public PredictionEngine<Data, Results> CreatePredictionEngine(MLContext mlContext)
     {
+        if (_trainedModel == null)
+            throw new InvalidOperationException("Model has not been trained yet, cannot create prediction engine.");
+
         return mlContext.Model.CreatePredictionEngine<Data, Results>(_trainedModel);
     }
 
@@ -93,10 +106,20 @@ public class Model
 
     public ITransformer LoadModel(MLContext mlContext)
     {
-        var loadedModel = mlContext.Model.Load(_modelPath, out _);
-        _trainedModel = loadedModel as TransformerChain<BinaryPredictionTransformer<
-            CalibratedModelParametersBase<LinearBinaryModelParameters, PlattCalibrator>>>;
-        return loadedModel;
+        if (!File.Exists(_modelPath))
+            throw new FileNotFoundException($"Model file not found at path: {_modelPath}");
+
+        try
+        {
+            var loadedModel = mlContext.Model.Load(_modelPath, out _);
+            _trainedModel = loadedModel as TransformerChain<BinaryPredictionTransformer<
+                CalibratedModelParametersBase<LinearBinaryModelParameters, PlattCalibrator>>>;
+            return loadedModel;
+        }
+        catch (Exception ex) when (ex is not FileNotFoundException)
+        {
+            throw new IOException($"Error loading model from {_modelPath}: {ex.Message}", ex);
+        }
     }
 
     private CalibratedBinaryClassificationMetrics LoadEvaluation(MLContext mlContext, ITransformer model)

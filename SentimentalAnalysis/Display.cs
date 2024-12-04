@@ -19,7 +19,7 @@ public static class Display
     {
         if (previous == null) return "";
         var change = current - previous.Value;
-        if (invertImprovement) change = -change; 
+        if (invertImprovement) change = -change;
         var arrow = change > 0 ? "↑" : "↓";
         var absChange = Math.Abs(change);
         var changeValue = isPercentage ? (absChange * 100).ToString("F2") + "%" : absChange.ToString("F4");
@@ -28,6 +28,9 @@ public static class Display
 
     public static string GetMetrics(CalibratedBinaryClassificationMetrics metrics, bool showChanges = false)
     {
+        if (metrics == null)
+            throw new ArgumentNullException(nameof(metrics), "Metrics cannot be null");
+
         var currentMetrics = metrics;
         var previousMetrics = _lastMetrics;
 
@@ -50,16 +53,33 @@ public static class Display
     public static void SaveMetricsToFile(CalibratedBinaryClassificationMetrics metrics, string filePath,
         bool append = true)
     {
+        if (string.IsNullOrEmpty(filePath))
+            throw new ArgumentException("File path cannot be null or empty", nameof(filePath));
+
+        if (metrics == null)
+            throw new ArgumentNullException(nameof(metrics), "Metrics cannot be null");
+
         var timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
         var metricsText = $"\n=== Evaluation at {timestamp} ===\n" + GetMetrics(metrics);
 
-        if (append)
+        try
         {
-            File.AppendAllText(filePath, metricsText);
+            if (append)
+            {
+                File.AppendAllText(filePath, metricsText);
+            }
+            else
+            {
+                File.WriteAllText(filePath, metricsText);
+            }
         }
-        else
+        catch (IOException ex)
         {
-            File.WriteAllText(filePath, metricsText);
+            throw new IOException($"Error writing to file {filePath}: {ex.Message}", ex);
+        }
+        catch (UnauthorizedAccessException ex)
+        {
+            throw new UnauthorizedAccessException($"Access denied to file {filePath}: {ex.Message}", ex);
         }
     }
 }
