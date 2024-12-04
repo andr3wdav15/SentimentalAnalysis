@@ -1,0 +1,130 @@
+
+=== Evaluation at 2024-12-04 00:18:05 ===
+Accuracy: 99.80%
+Area Under ROC Curve: 99.99%
+F1 Score: 99.80%
+Log Loss: 0.1692
+Positive Precision: 100.00%
+Positive Recall: 99.60%
+Negative Precision: 99.60%
+Negative Recall: 100.00%
+
+=== Evaluation at 2024-12-04 00:19:22 ===
+Accuracy: 99.80%
+Area Under ROC Curve: 99.99%
+F1 Score: 99.80%
+Log Loss: 0.1689
+Positive Precision: 100.00%
+Positive Recall: 99.60%
+Negative Precision: 99.60%
+Negative Recall: 100.00%
+
+=== Evaluation at 2024-12-04 00:35:04 ===
+Accuracy: 84.04%
+Area Under ROC Curve: 90.18%
+F1 Score: 84.54%
+Log Loss: 0.6129
+Positive Precision: 82.00%
+Positive Recall: 87.23%
+Negative Precision: 86.36%
+Negative Recall: 80.85%
+
+=== Evaluation at 2024-12-04 01:01:39 ===
+Accuracy: 83.51%
+Area Under ROC Curve: 90.18%
+F1 Score: 84.10%
+Log Loss: 0.6159
+Positive Precision: 81.19%
+Positive Recall: 87.23%
+Negative Precision: 86.21%
+Negative Recall: 79.79%
+
+=== Evaluation at 2024-12-04 01:03:57 ===
+Accuracy: 84.13%
+Area Under ROC Curve: 90.22%
+F1 Score: 84.54%
+Log Loss: 0.6079
+Positive Precision: 82.00%
+Positive Recall: 87.23%
+Negative Precision: 86.52%
+Negative Recall: 81.05%
+
+=== Evaluation at 2024-12-04 01:06:39 ===
+Accuracy: 84.13%
+Area Under ROC Curve: 90.28%
+F1 Score: 84.54%
+Log Loss: 0.6097
+Positive Precision: 82.00%
+Positive Recall: 87.23%
+Negative Precision: 86.52%
+Negative Recall: 81.05%
+
+=== Evaluation at 2024-12-04 01:10:17 ===
+Accuracy: 82.01%
+Area Under ROC Curve: 90.19%
+F1 Score: 83.00%
+Log Loss: 0.6265
+Positive Precision: 78.30%
+Positive Recall: 88.30%
+Negative Precision: 86.75%
+Negative Recall: 75.79%
+
+=== Evaluation at 2024-12-04 01:10:30 ===
+Accuracy: 84.13%
+Area Under ROC Curve: 89.68%
+F1 Score: 84.69%
+Log Loss: 0.6340
+Positive Precision: 81.37%
+Positive Recall: 88.30%
+Negative Precision: 87.36%
+Negative Recall: 80.00%
+
+=== Evaluation at 2024-12-04 01:10:58 ===
+Accuracy: 83.07%
+Area Under ROC Curve: 90.01%
+F1 Score: 83.84%
+Log Loss: 0.6249
+Positive Precision: 79.81%
+Positive Recall: 88.30%
+Negative Precision: 87.06%
+Negative Recall: 77.89%
+
+=== Evaluation at 2024-12-04 01:12:51 ===
+Accuracy: 84.66%
+Area Under ROC Curve: 89.94%
+F1 Score: 84.97%
+Log Loss: 0.6211
+Positive Precision: 82.83%
+Positive Recall: 87.23%
+Negative Precision: 86.67%
+Negative Recall: 82.11%
+
+=== Evaluation at 2024-12-04 01:14:55 ===
+Accuracy: 84.13%
+Area Under ROC Curve: 89.91%
+F1 Score: 84.69%
+Log Loss: 0.6237
+Positive Precision: 81.37%
+Positive Recall: 88.30%
+Negative Precision: 87.36%
+Negative Recall: 80.00%
+
+=== Evaluation at 2024-12-04 01:19:14 ===
+Accuracy: 83.42%
+Area Under ROC Curve: 90.05%
+F1 Score: 84.10%
+Log Loss: 0.6234
+Positive Precision: 80.39%
+Positive Recall: 88.17%
+Negative Precision: 87.06%
+Negative Recall: 78.72%
+
+=== Evaluation at 2024-12-04 01:19:33 ===
+Accuracy: 83.96%
+Area Under ROC Curve: 89.90%
+F1 Score: 84.38%
+Log Loss: 0.6196
+Positive Precision: 81.82%
+Positive Recall: 87.10%
+Negative Precision: 86.36%
+Negative Recall: 80.85%

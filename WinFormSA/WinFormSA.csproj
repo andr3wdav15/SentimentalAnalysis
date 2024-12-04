@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Platform>x64</Platform>
+    <Platforms>x64</Platforms>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SentimentalAnalysis\SentimentalAnalysis.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="model.zip">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="yelp_labelled.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ML" Version="4.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\x64\Debug\net8.0-windows\win-x64\lastEvaluation.txt" />
+    <Content Include="bin\x64\Debug\net8.0-windows\win-x64\model.zip" />
+    <Content Include="bin\x64\Debug\net8.0-windows\win-x64\trainingLog.txt" />
+    <Content Include="bin\x64\Debug\net8.0-windows\win-x64\yelp_labelled.txt" />
+  </ItemGroup>
+
+</Project>

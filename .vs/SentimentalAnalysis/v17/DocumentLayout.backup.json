@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\PROG2200-Assignment3-W0484847\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1A4218-7CFC-4E0E-BCC3-6EBAF26BA4A0}|SentimentalAnalysis\\SentimentalAnalysis.csproj|c:\\users\\andre\\desktop\\prog2200-assignment3-w0484847\\sentimentalanalysis\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1A4218-7CFC-4E0E-BCC3-6EBAF26BA4A0}|SentimentalAnalysis\\SentimentalAnalysis.csproj|solutionrelative:sentimentalanalysis\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1A4218-7CFC-4E0E-BCC3-6EBAF26BA4A0}|SentimentalAnalysis\\SentimentalAnalysis.csproj|c:\\users\\andre\\desktop\\prog2200-assignment3-w0484847\\sentimentalanalysis\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1A4218-7CFC-4E0E-BCC3-6EBAF26BA4A0}|SentimentalAnalysis\\SentimentalAnalysis.csproj|solutionrelative:sentimentalanalysis\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A850E2-B640-41B6-95FA-0ADFD27C9D6E}|CreateModel\\CreateModel.csproj|c:\\users\\andre\\desktop\\prog2200-assignment3-w0484847\\createmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A850E2-B640-41B6-95FA-0ADFD27C9D6E}|CreateModel\\CreateModel.csproj|solutionrelative:createmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1A4218-7CFC-4E0E-BCC3-6EBAF26BA4A0}|SentimentalAnalysis\\SentimentalAnalysis.csproj|c:\\users\\andre\\desktop\\prog2200-assignment3-w0484847\\sentimentalanalysis\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1A4218-7CFC-4E0E-BCC3-6EBAF26BA4A0}|SentimentalAnalysis\\SentimentalAnalysis.csproj|solutionrelative:sentimentalanalysis\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94CFF1B-3D31-4494-B532-9D42B87A1BBF}|WinFormSA\\WinFormSA.csproj|c:\\users\\andre\\desktop\\prog2200-assignment3-w0484847\\winformsa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94CFF1B-3D31-4494-B532-9D42B87A1BBF}|WinFormSA\\WinFormSA.csproj|solutionrelative:winformsa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1A4218-7CFC-4E0E-BCC3-6EBAF26BA4A0}|SentimentalAnalysis\\SentimentalAnalysis.csproj|c:\\users\\andre\\desktop\\prog2200-assignment3-w0484847\\sentimentalanalysis\\results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1A4218-7CFC-4E0E-BCC3-6EBAF26BA4A0}|SentimentalAnalysis\\SentimentalAnalysis.csproj|solutionrelative:sentimentalanalysis\\results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\PROG2200-Assignment3-W0484847\\WinFormSA\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormSA\\Form1.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\PROG2200-Assignment3-W0484847\\WinFormSA\\Form1.cs",
+              "RelativeToolTip": "WinFormSA\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:56:22.57Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Results.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\PROG2200-Assignment3-W0484847\\SentimentalAnalysis\\Results.cs",
+              "RelativeDocumentMoniker": "SentimentalAnalysis\\Results.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\PROG2200-Assignment3-W0484847\\SentimentalAnalysis\\Results.cs",
+              "RelativeToolTip": "SentimentalAnalysis\\Results.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:31:52.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\PROG2200-Assignment3-W0484847\\SentimentalAnalysis\\Data.cs",
+              "RelativeDocumentMoniker": "SentimentalAnalysis\\Data.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\PROG2200-Assignment3-W0484847\\SentimentalAnalysis\\Data.cs",
+              "RelativeToolTip": "SentimentalAnalysis\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:31:20.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\PROG2200-Assignment3-W0484847\\CreateModel\\Program.cs",
+              "RelativeDocumentMoniker": "CreateModel\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\PROG2200-Assignment3-W0484847\\CreateModel\\Program.cs",
+              "RelativeToolTip": "CreateModel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:31:10.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Display.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\PROG2200-Assignment3-W0484847\\SentimentalAnalysis\\Display.cs",
+              "RelativeDocumentMoniker": "SentimentalAnalysis\\Display.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\PROG2200-Assignment3-W0484847\\SentimentalAnalysis\\Display.cs",
+              "RelativeToolTip": "SentimentalAnalysis\\Display.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:09:54.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\PROG2200-Assignment3-W0484847\\SentimentalAnalysis\\Model.cs",
+              "RelativeDocumentMoniker": "SentimentalAnalysis\\Model.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\PROG2200-Assignment3-W0484847\\SentimentalAnalysis\\Model.cs",
+              "RelativeToolTip": "SentimentalAnalysis\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:09:37.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

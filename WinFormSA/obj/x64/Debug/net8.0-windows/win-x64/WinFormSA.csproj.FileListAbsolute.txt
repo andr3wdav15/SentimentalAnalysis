@@ -1,0 +1,95 @@
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\WinFormSA.exe
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\WinFormSA.deps.json
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\WinFormSA.runtimeconfig.json
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\WinFormSA.dll
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\WinFormSA.pdb
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.Core.dll
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.Data.dll
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.KMeansClustering.dll
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.PCA.dll
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.StandardTrainers.dll
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.Transforms.dll
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.CpuMath.dll
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.DataView.dll
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Newtonsoft.Json.dll
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\System.Numerics.Tensors.dll
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\LdaNative.dll
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\SentimentalAnalysis.dll
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\SentimentalAnalysis.pdb
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.Form1.resources
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.AssemblyInfo.cs
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.csproj.Up2Date
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.dll
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\refint\WinFormSA.dll
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.pdb
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.genruntimeconfig.cache
+C:\Users\andre\Desktop\SentimentalAnalysis-master\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\ref\WinFormSA.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\WinFormSA.exe
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\WinFormSA.deps.json
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\WinFormSA.runtimeconfig.json
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\WinFormSA.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\WinFormSA.pdb
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.Core.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.Data.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.KMeansClustering.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.PCA.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.StandardTrainers.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.Transforms.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.CpuMath.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.DataView.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Newtonsoft.Json.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\System.Numerics.Tensors.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\LdaNative.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\SentimentalAnalysis.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\SentimentalAnalysis.pdb
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.Form1.resources
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.AssemblyInfo.cs
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.csproj.Up2Date
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\refint\WinFormSA.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.pdb
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.genruntimeconfig.cache
+C:\Users\andre\Desktop\BACKUP ASSIGN4\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\ref\WinFormSA.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.Form1.resources
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.AssemblyInfo.cs
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\model.zip
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\yelp_labelled.txt
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\WinFormSA.exe
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\WinFormSA.deps.json
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\WinFormSA.runtimeconfig.json
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\WinFormSA.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\WinFormSA.pdb
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.Core.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.Data.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.KMeansClustering.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.PCA.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.StandardTrainers.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.Transforms.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.CpuMath.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Microsoft.ML.DataView.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\Newtonsoft.Json.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\System.Numerics.Tensors.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\LdaNative.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\SentimentalAnalysis.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\bin\x64\Debug\net8.0-windows\win-x64\SentimentalAnalysis.pdb
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.csproj.Up2Date
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\refint\WinFormSA.dll
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.pdb
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\WinFormSA.genruntimeconfig.cache
+C:\Users\andre\Desktop\BACKUP ASSIGN4 - Copy (2)\WinFormSA\obj\x64\Debug\net8.0-windows\win-x64\ref\WinFormSA.dll
